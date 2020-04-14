@@ -1,6 +1,2 @@
 # my-website
-testing fetch and pull
-edit from example branch
-
-
-testing pull
+updates made on master remotly befor rebase
