@@ -1,4 +1,2 @@
 # my-website repo
-updates made on master remotly befor rebase
-edits in gitbus d
-
+github to study if merge conflict is resolved by rebase
